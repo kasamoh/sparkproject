@@ -1,11 +1,10 @@
 
-Télécharger le repository https://github.com/kasamoh/sparkproject en tant que ZIP  ( il faut cliquer sur" clone or download " puis "
-"download zip"
-Extraire le fichier zip dans un repertoire de travail que vous choisissez 
-Ouvrir l'IDE IntelliJ , click sur "File " ==> "New " ==> "Project from existing source"
-Selectionner le dossier que vous venez d'extraire 
-Selectionner "import project from external model" et ensuite en bas "sbt"
-Cliquer sur "finish" puis attendre quelques secondes pour le chargement du projet
+1.Télécharger le repository https://github.com/kasamoh/sparkproject en tant que ZIP  ( il faut cliquer sur" clone or download " puis ""download zip"
+2.Extraire le fichier zip dans un repertoire de travail que vous choisissez 
+3.Ouvrir l'IDE IntelliJ , click sur "File " ==> "New " ==> "Project from existing source"
+4.Selectionner le dossier que vous venez d'extraire 
+5.Selectionner "import project from external model" et ensuite en bas "sbt"
+6.Cliquer sur "finish" puis attendre quelques secondes pour le chargement du projet
 
 ## Modifications pour lancement :
 Au niveau de la hierarchie des répoertoire du projet à gauche de l'IDE ,selectionner le fichier **build_and_submit.sh** :
