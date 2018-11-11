@@ -47,14 +47,12 @@ object Trainer {
       *./build_and_submit.sh instructions
       ********************************************************************************/
 
-    val basePath= "/home/user/TelecomParistech/TP spark/TP3/" // l'url du dossier de travail , il doit contenir le sous dossier trainingset
-
-
+    val basePath= System.getProperty("user.dir")+"/data/" // l'url du dossier de travail , il doit contenir le sous dossier trainingset
 
     println("0.Reading the data ")
 
 
-    val input =basePath+"trainingset" //url du dossier training test
+    val input =basePath+"trainingset" //le  dossier training test contenant les données nettoyées
 
     // Chargement du dataset
     var df = spark.read.parquet(input)
@@ -216,4 +214,5 @@ object Trainer {
 
 
 }
+
 
