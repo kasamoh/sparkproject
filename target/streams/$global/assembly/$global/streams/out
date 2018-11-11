@@ -1,0 +1,13 @@
+[0m[[0mdebug[0m] [0mCalculate mappings...[0m
+[0m[[0minfo[0m] [0mChecking every *.class/*.jar file's SHA-1.[0m
+[0m[[0minfo[0m] [0mMerging files...[0m
+[0m[[0minfo[0m] [0mSHA-1: bbab95c76aaa381d2a5e785f20c9be344532e55a[0m
+[0m[[0minfo[0m] [0mPackaging /home/user/TelecomParistech/TP spark/tp2-problem/TP_ParisTech_2018_2019_starter/TP3_SPARK_TelecomParistech/target/scala-2.11/TP_ParisTech_2017_2018-assembly-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	com/sparkProject/Trainer$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/user/TelecomParistech/TP spark/tp2-problem/TP_ParisTech_2018_2019_starter/TP3_SPARK_TelecomParistech/target/streams/$global/assemblyOption/$global/streams/assembly/f78abc1c1a158cfd73c4751b3c27f29b021225ae_dir/com/sparkProject/Trainer$.class[0m
+[0m[[0mdebug[0m] [0m	com/sparkProject/Trainer.class[0m
+[0m[[0mdebug[0m] [0m	  /home/user/TelecomParistech/TP spark/tp2-problem/TP_ParisTech_2018_2019_starter/TP3_SPARK_TelecomParistech/target/streams/$global/assemblyOption/$global/streams/assembly/f78abc1c1a158cfd73c4751b3c27f29b021225ae_dir/com/sparkProject/Trainer.class[0m
+[0m[[0mdebug[0m] [0m	com/sparkProject/Trainer2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/user/TelecomParistech/TP spark/tp2-problem/TP_ParisTech_2018_2019_starter/TP3_SPARK_TelecomParistech/target/streams/$global/assemblyOption/$global/streams/assembly/f78abc1c1a158cfd73c4751b3c27f29b021225ae_dir/com/sparkProject/Trainer2.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
