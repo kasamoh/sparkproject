@@ -1,5 +1,5 @@
 
-# Projet Spark-scala - Réalisé par Mohamed DHAOUI#
+# Projet Spark-scala - Réalisé par Mohamed DHAOUI #
 
 #### Téléchargement et importation du projet dans IntelliJ:
 
